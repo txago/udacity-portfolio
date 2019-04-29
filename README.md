@@ -1,6 +1,6 @@
 # Udacity Front-End Web Developer Nanodegree Project 1
 This is the first project that I have submitted to the **Front-End Web Developer
-Nanodegree** by **Udacity**. It consists of a *fictitious* portfolio web site
+Nanodegree** by **Udacity**. It consists of a *fictitious* portfolio website
 because I already have my own [portfolio](https://txago.com).
 
 ## Task
