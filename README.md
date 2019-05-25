@@ -1,7 +1,7 @@
 # Udacity Front-End Web Developer Nanodegree Project 1
-This is the first project that I have submitted to the **Front-End Web Developer
+This is the first project that I submitted to the **Front-End Web Developer
 Nanodegree** by **Udacity**. It consists of a *fictitious* portfolio website
-because I already have my own [portfolio](https://txago.com).
+because I already have my own [professional portfolio](https://txago.com).
 
 ## Task
 Given a PDF mockup of a website from a designer, I was asked to translate it to
